@@ -1,3 +1,5 @@
 # WebApps-F22-Assignment-7
 An assignment on java script modifying the DOM and using anonymous callback functions.
-Hosted At [click here](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-7-ChinthakayalaShruthi/reaction.html/treasure.html/cycler.html)
+Hosted At [click here](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-7-ChinthakayalaShruthi/treasure.html)
+Hosted At [click here](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-7-ChinthakayalaShruthi/reaction.html)
+Hosted At [click here](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-7-ChinthakayalaShruthi/cycler.html)
